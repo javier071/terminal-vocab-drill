@@ -15,3 +15,4 @@ Notes and usage details for terminal-vocab-drill.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
