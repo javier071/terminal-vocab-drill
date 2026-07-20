@@ -24,3 +24,4 @@
 - fix: fix a small wording issue
 - docs: fix a small wording issue
 - fix: clarify the setup steps
+- fix: clarify the setup steps
